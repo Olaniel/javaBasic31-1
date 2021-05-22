@@ -15,6 +15,5 @@ public class Task02 {
         System.out.println("x= " + x + " < " + "y= " + y);
 
         System.out.println("x= " + Math.max(x, y) + " > " + "y= " + Math.min(x, y));
-
     }
 }

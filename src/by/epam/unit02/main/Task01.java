@@ -26,6 +26,5 @@ public class Task01 {
         z = (a - 3) * b / 2 + c;
 
         System.out.println("z = " + z);
-
     }
 }

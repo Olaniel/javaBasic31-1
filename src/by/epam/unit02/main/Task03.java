@@ -30,7 +30,6 @@ public class Task03 {
 
         System.out.println("В " + enteredSeconds + " секундах: " + "\n" +
                 hour + "ч. " + min + "мин. " + sec + "сек.");
-
     }
 
 }

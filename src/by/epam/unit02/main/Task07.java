@@ -32,5 +32,4 @@ public class Task07 {
                 "Z=" + z + "; Z в степени =" + zPow);
 
     }
-
 }
