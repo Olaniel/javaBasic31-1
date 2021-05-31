@@ -10,7 +10,7 @@ public class Task07 {
 
         Scanner sc=new Scanner(System.in);
 
-        String Roman;
+        String Roman;// не по java code convention именуешь переменные, с маленькой буквы надо
         String Arab;
 
         System.out.print("римская цифра - ");
